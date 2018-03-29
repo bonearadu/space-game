@@ -1,0 +1,1 @@
+money=ini_read_real("stats","money",0);
