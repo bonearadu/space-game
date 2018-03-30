@@ -3,8 +3,10 @@ var drx=distance;
 var dry=distance;
 
 //get high score
-var easyscore=ini_read_real("score","easy",0);
-var hardscore=ini_read_real("score","hard",0);
+if (!instance_exists(obj_gameover)) {
+	easyscore=ini_read_real("score","easy",0);
+	hardscore=ini_read_real("score","hard",0);
+}
 
 //draw high score
 draw_set_font(fnt_gamefont);

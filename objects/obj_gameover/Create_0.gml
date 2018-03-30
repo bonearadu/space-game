@@ -10,6 +10,7 @@ instance_destroy(obj_enemy2UP);
 instance_destroy(obj_enemy2BASE);
 instance_destroy(obj_enemy);
 instance_destroy(obj_enemyBullet);
+instance_destroy(obj_savegame);
 with(obj_player) {
 	sprite_index=spr_NULL;
 	alarm[0]=-1;
