@@ -1,4 +1,3 @@
-randomize();
 spawn_rate=global.spawnrate;
 max_spawn_rate=global.maxspawnrate;
 raise_rate=global.raiserate;
