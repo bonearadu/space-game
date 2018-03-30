@@ -2,19 +2,19 @@
 image_angle=point_direction(x,y,mouse_x,mouse_y);
 
 //borders
-if (x<=border) {
+if (x<=global.border) {
 	x_speed=0;
 	x++;
 }
-if (x>=room_width-border) {
+if (x>=room_width-global.border) {
 	x_speed=0;
 	x--;
 }
-if (y<=border) {
+if (y<=global.border) {
 	y_speed=0;
 	y++;
 }
-if (y>=room_height-border) {
+if (y>=room_height-global.border) {
 	y_speed=0;
 	y--;
 }

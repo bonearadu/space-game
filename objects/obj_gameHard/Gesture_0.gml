@@ -8,8 +8,9 @@ global.raiserate=45;
 global.enemy2start=3600;
 global.asteroidstart=1000;
 global.difficulty=2;
+global.coinval=2;
 
-//close sava INI
+//close save INI
 instance_destroy(obj_savegame);
 
 //go to game room

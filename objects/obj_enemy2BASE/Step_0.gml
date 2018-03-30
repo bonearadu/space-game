@@ -8,7 +8,7 @@ else speed-=0.006;
 
 if (hp<=0) {
 	instance_destroy();
-	var money=ini_read_real("stats","money",0);
-	ini_write_real("stats","money",money+val);
+	for (i=1; i<=val; i++)
+		instance_create_layer(x,y,"CoinsLayer",obj_coin);
 	with (obj_score) game_score+=5;
 }

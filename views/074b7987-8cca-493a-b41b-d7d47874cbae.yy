@@ -11,7 +11,8 @@
         "e48ee57f-35bc-4d23-8c9f-3ef4f6457d4b",
         "59ee9227-15b8-4b74-8d3c-93dc84397e19",
         "884af901-092f-4354-90b2-bdd26f54301d",
-        "35699202-1d80-495e-a1a5-79559480be26"
+        "35699202-1d80-495e-a1a5-79559480be26",
+        "0d1e3bfb-af4b-4bac-995b-8ae1de2d4f3f"
     ],
     "filterType": "GMSprite",
     "folderName": "entities",

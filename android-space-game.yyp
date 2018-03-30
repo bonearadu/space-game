@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0d1e3bfb-af4b-4bac-995b-8ae1de2d4f3f",
+            "Value": {
+                "id": "bddca50f-62ba-40c2-9bb5-184ed1474641",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0de0d9c9-cb10-4dae-84a8-ef1a4d22dd1e",
             "Value": {
                 "id": "2bc7d7c1-dedb-40d2-8357-385e4c7abb10",
@@ -508,6 +516,14 @@
                 "id": "d662e33e-7313-47f5-b2e7-d64668eae6ba",
                 "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb18dbd0-f490-4569-8e76-098d2facb72c",
+            "Value": {
+                "id": "ff6a7c97-fb09-4221-81bd-e432016bc214",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
