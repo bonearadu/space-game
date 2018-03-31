@@ -75,7 +75,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "PayerLayer",
+            "name": "PlayerLayer",
             "id": "a99fea12-e9be-4079-87dc-9728995957ef",
             "depth": 200,
             "grid_x": 32,

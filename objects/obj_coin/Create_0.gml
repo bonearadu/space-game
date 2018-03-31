@@ -1,3 +1,5 @@
+randomize();
+
 //value of a coin
 val=global.coinval;
 
