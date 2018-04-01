@@ -14,6 +14,7 @@ if (instance_exists(obj_screenDim)) {
 	alarm[0]=++alrm;
 }
 else {
+	direction=point_direction(x,y,obj_player.x,obj_player.y);
 	image_angle+=3;
 	speed=spd;
 }

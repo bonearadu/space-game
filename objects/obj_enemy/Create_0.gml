@@ -6,5 +6,4 @@ alarm[0]=600;
 val=1;
 
 //movement
-direction=point_direction(x,y,obj_player.x,obj_player.y);
 spd=1.5;
