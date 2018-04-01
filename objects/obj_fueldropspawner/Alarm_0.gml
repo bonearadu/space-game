@@ -41,4 +41,4 @@ if (rand==3) { //sus
 }
 
 //reset alarm
-alarm[0]=spawn_rate
+alarm[0]=spawn_rate;
