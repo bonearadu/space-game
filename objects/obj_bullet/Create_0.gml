@@ -8,3 +8,6 @@ spd=30;
 
 //destruction
 alarm[0]=90;
+
+//sound
+with (obj_soundGame) laser = true;

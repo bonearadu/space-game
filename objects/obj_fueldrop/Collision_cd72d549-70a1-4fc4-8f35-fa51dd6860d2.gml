@@ -4,5 +4,8 @@ with (obj_fuel) {
 	else fuel=maxfuel;
 }
 
+//sound
+with (obj_soundGame) fuelSound = true;
+
 //destroy object
 instance_destroy();

@@ -4,3 +4,6 @@ image_angle=direction;
 scale=1;
 image_xscale=scale;
 image_yscale=scale;
+
+//sound
+with (obj_soundGame) enemyLaser = true;

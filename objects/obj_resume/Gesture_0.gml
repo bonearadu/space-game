@@ -6,3 +6,5 @@ instance_destroy(obj_screenDim);
 instance_destroy(obj_exit);
 instance_destroy(obj_menu);
 instance_destroy();
+
+audio_resume_all();

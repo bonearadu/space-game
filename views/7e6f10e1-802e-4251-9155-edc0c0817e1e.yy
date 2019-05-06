@@ -14,7 +14,9 @@
         "21e8b5d7-6835-45c4-86de-747094b4a443",
         "81cd9e82-5553-49e5-9e58-5ff9b2d9b41e",
         "3ed3e268-a740-42a9-9a14-8712b2c4c414",
-        "b40b6754-a487-4851-9b0d-8d8551fec409"
+        "b40b6754-a487-4851-9b0d-8d8551fec409",
+        "21c2c9f7-4afc-468d-90b2-746a3c9ad9d2",
+        "4ed8a000-e7b5-4723-b34e-b668fa2594f1"
     ],
     "filterType": "GMObject",
     "folderName": "functions",
