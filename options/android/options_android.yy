@@ -38,7 +38,7 @@
     "option_android_orient_landscape_flipped": false,
     "option_android_orient_portrait": false,
     "option_android_orient_portrait_flipped": false,
-    "option_android_package_company": "raulIsGay",
+    "option_android_package_company": "bonearadu",
     "option_android_package_domain": "com",
     "option_android_package_product": "spaceGame",
     "option_android_permission_bluetooth": false,
@@ -65,7 +65,7 @@
     "option_android_version": {
         "build": 0,
         "major": 0,
-        "minor": 5,
+        "minor": 6,
         "revision": 0
     }
 }

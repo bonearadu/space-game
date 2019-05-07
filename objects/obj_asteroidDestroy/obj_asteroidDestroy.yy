@@ -1,28 +1,28 @@
 {
-    "id": "5cace9a9-05a4-40b6-8f45-51c2ea7518aa",
+    "id": "b3db4426-0efd-46e2-bff0-2db01afdc4c3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_BG",
+    "name": "obj_asteroidDestroy",
     "eventList": [
         {
-            "id": "4ab3f8f8-0a9c-4588-9912-df6a151bcda7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "5cace9a9-05a4-40b6-8f45-51c2ea7518aa"
-        },
-        {
-            "id": "80c9ac71-0194-4d74-b888-0c57aebc30fd",
+            "id": "a37d12dd-e5e6-429e-a26b-db283230f169",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5cace9a9-05a4-40b6-8f45-51c2ea7518aa"
+            "m_owner": "b3db4426-0efd-46e2-bff0-2db01afdc4c3"
+        },
+        {
+            "id": "bad3ff4d-c0f7-4331-9ba2-3085cff2b6c6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "b3db4426-0efd-46e2-bff0-2db01afdc4c3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "168365eb-b1ef-44aa-b9aa-8ce1e260f564",
     "visible": true
 }

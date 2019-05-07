@@ -14,7 +14,10 @@
         "35699202-1d80-495e-a1a5-79559480be26",
         "0d1e3bfb-af4b-4bac-995b-8ae1de2d4f3f",
         "3088f318-58ee-4e73-9703-6b0d1831a7d9",
-        "4f0240e8-3af9-4420-b87d-94520a35c8b3"
+        "4f0240e8-3af9-4420-b87d-94520a35c8b3",
+        "810f8922-2675-414d-b4b0-e1012701fe4b",
+        "1d55b6c4-f16f-43ae-b7e3-1749559fb016",
+        "168365eb-b1ef-44aa-b9aa-8ce1e260f564"
     ],
     "filterType": "GMSprite",
     "folderName": "entities",

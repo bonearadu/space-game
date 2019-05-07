@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "168365eb-b1ef-44aa-b9aa-8ce1e260f564",
+            "Value": {
+                "id": "4284cd8b-f980-4ebf-9b00-d242914e11a7",
+                "resourcePath": "sprites\\spr_asteroidDestroy\\spr_asteroidDestroy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1d55b6c4-f16f-43ae-b7e3-1749559fb016",
+            "Value": {
+                "id": "3094e2d9-023b-4824-a835-bbc3235ad286",
+                "resourcePath": "sprites\\spr_fuelDestroy\\spr_fuelDestroy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1faf2d0a-dfd5-4d31-b42b-0bced01c0b07",
             "Value": {
                 "id": "3b890038-9ea7-406b-b393-d42ecbc1f127",
@@ -156,6 +172,14 @@
                 "id": "f3d30c5f-2047-4d4f-bf6c-ae291f21466c",
                 "resourcePath": "sprites\\spr_explosion\\spr_explosion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31577a59-f2ba-4295-bca6-e2a8e3db0056",
+            "Value": {
+                "id": "34494a15-bcfd-4482-8b32-d20dbf83864c",
+                "resourcePath": "objects\\obj_coinDestroy\\obj_coinDestroy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +399,14 @@
             }
         },
         {
+            "Key": "66c593ec-006e-47ce-803c-f878eb5643cb",
+            "Value": {
+                "id": "16b4da37-b9ed-4afa-9688-03857c471097",
+                "resourcePath": "objects\\obj_fuelDestroy\\obj_fuelDestroy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "66df1ab5-3027-4009-a9c8-3f6fb4b5345a",
             "Value": {
                 "id": "a9d3e51c-2c37-44b6-92ab-025a7b6ec82f",
@@ -476,6 +508,14 @@
                 "id": "6f85c5ca-b2a6-4267-8811-f82a9895046a",
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "810f8922-2675-414d-b4b0-e1012701fe4b",
+            "Value": {
+                "id": "b9a910a2-7155-4ec3-90c2-c26293b4c796",
+                "resourcePath": "sprites\\spr_coinDestroy\\spr_coinDestroy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -660,6 +700,14 @@
                 "id": "d662e33e-7313-47f5-b2e7-d64668eae6ba",
                 "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b3db4426-0efd-46e2-bff0-2db01afdc4c3",
+            "Value": {
+                "id": "c3c61345-3a40-47aa-b1c2-4383bac8d709",
+                "resourcePath": "objects\\obj_asteroidDestroy\\obj_asteroidDestroy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
