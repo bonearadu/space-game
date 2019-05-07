@@ -3,7 +3,7 @@
     "modelName": "GMAndroidOptions",
     "mvc": "1.0",
     "name": "Android",
-    "option_android_arch_arm64": false,
+    "option_android_arch_arm64": true,
     "option_android_arch_armv5": true,
     "option_android_arch_armv7": true,
     "option_android_arch_mips": false,
