@@ -1,3 +1,3 @@
-alarm[0] = sprite_get_speed(spr_explosion);
+alarm[0] = 30;
 
 image_angle = random_range(0, 360);
